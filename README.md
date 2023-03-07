@@ -1,5 +1,7 @@
 Proyecto de Criptomonedas conectado a la API de Kraken.
 
+El código de la aplicación se encuentra en el apartado de CriptDash.py
+
 El primer paso del proyecto es la instalación de librerías para poder llevar a cabo su ejecución.
     - pandas
     - krakenex
