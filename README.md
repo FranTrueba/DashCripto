@@ -1,3 +1,5 @@
+Proyecto de Criptomonedas conectado a la API de Kraken.
+
 El primer paso del proyecto es la instalación de librerías para poder llevar a cabo su ejecución.
     - pandas
     - krakenex
